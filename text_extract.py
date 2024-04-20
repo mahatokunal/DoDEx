@@ -23,7 +23,7 @@ driver = webdriver.Chrome(service=s, options=options)
 
 for i in range(1, 246):
     # Define the URL of the webpage
-    url = "https://www.defense.gov/News/Contracts/?Page=1"
+    url = f"https://www.defense.gov/News/Contracts/?Page={i}"
 
     # Navigate to the webpage
     driver.get(url)
