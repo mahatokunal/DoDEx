@@ -2,11 +2,11 @@
 
 **Winner of the People’s Choice Award | Bitcamp Hackathon, University of Maryland (April 2024)**  
 
-DoDEx (Defense Contract Data Extractor) is an AI-powered solution designed to streamline the process of parsing, extracting, and validating critical information from Defense Contract Notices. By leveraging cutting-edge AI technologies, DoDEx enhances efficiency and accuracy, making it easier to handle complex datasets in critical domains like defense.
+DoDEx (Defense Contract Data Extractor) is an AI-powered solution designed to streamline the process of parsing, extracting, and validating critical information from Defense Contract Notices.
 
 ## Inspiration
 
-This project addresses the need for efficiency and accuracy in handling Defense Contract information. Traditional methods are often manual and error-prone. With AI tools and technologies, DoDEx was created to automate and improve this process, enabling faster and more reliable decision-making.
+This project addresses the need for efficiency and accuracy in handling Defense Contract information. Traditional methods are often manual and error-prone. With AI tools and technologies, DoDEx was created to address these challenges.
 
 ## What It Does
 
@@ -92,8 +92,6 @@ Through rigorous testing and iteration, we overcame these challenges by integrat
    python main.py
    ```
 
-4. For the C# and Angular components, follow their respective setup instructions in the `README_CSHARP.md` and `README_ANGULAR.md` files.
-
 ## Contribution Guidelines
 
 We welcome contributions to improve DoDEx!  
@@ -110,4 +108,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions, feedback, or contributions, please reach out:  
 
-- **Owner**: [Kunal Mahato](https://github.com/mahatokunal)  
+- **Owner**: [Kunal Mahato](https://github.com/mahatokunal)  , [Nidhi Kamath](https://github.com/nidhikamath2102) , [Manim Tirkey](https://github.com/manimtirkey2000)
+- **Devpost**: [DoDEx on Devpost](https://devpost.com/software/ai-powered-extractor-for-defense-contract)
+- **LinkedIn**: [Problem Statement by Bloomberg Industry Group](https://www.linkedin.com/posts/subashjohn_bloombergindustrygroup-bitcamp-umd-activity-7188114085329219585-T9uz/)
+
+## Contributors
+
+- **Kunal Mahato** ([mahatokunal](https://github.com/mahatokunal))  
+- **Nidhi Kamath** ([nidhikamath2102](https://github.com/nidhikamath2102))  
+- **Manim Tirkey** ([manimtirkey2000](https://github.com/manimtirkey2000))
