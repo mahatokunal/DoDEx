@@ -1,6 +1,7 @@
 # DoDEx
 
 **Winner of the People’s Choice Award | Bitcamp Hackathon, University of Maryland (April 2024)**  
+**[View on Devpost](https://devpost.com/software/ai-powered-extractor-for-defense-contract)**  
 
 DoDEx (Defense Contract Data Extractor) is an AI-powered solution designed to streamline the process of parsing, extracting, and validating critical information from Defense Contract Notices.
 
